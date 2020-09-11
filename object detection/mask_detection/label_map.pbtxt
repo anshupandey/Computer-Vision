@@ -9,6 +9,6 @@ item {
 }
 
 item {
-    id: 2
+    id: 3
     name: 'mask_weared_incorrect'
 }
