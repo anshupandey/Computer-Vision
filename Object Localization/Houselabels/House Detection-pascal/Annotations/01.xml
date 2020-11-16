@@ -1,0 +1,26 @@
+<annotation>
+  <folder>GeneratedData_Train</folder>
+  <filename>01.jpg</filename>
+  <source>
+    <database>3</database>
+  </source>
+  <size>
+    <width>1199</width>
+    <height>596</height>
+    <depth>Unknown</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Person</name>
+    <pose>Unknown</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>60.77576601671305</xmin>
+      <xmax>1027.8231197771588</xmax>
+      <ymin>111.23119777158774</ymin>
+      <ymax>464.016713091922</ymax>
+    </bndbox>
+  </object>
+</annotation>
