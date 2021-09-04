@@ -1,6 +1,10 @@
-# face_recognition_USTGLOBAL_training
-This codes were written while delivering training on Face Recognition using Python on 08th and 09th November, 2018
-TO install openCV
-open Anaconda Prompt
-use the command: 
-pip install opencv-python
+# Computer Vision Repository
+This repo containes codes and documentation about multiple topics in computer vision space such as image classification, transfer learning, object localization and object detection, image segmentation, GANs, siamese networks etc.
+
+
+Packages requireed- 
+
+openCV - pip install opencv-python
+imgaug - pip install imgaug
+tensorflow - pip install tensorflow
+scikit-image - pip install scikit-image
