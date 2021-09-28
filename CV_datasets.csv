@@ -1,1 +1,3 @@
-﻿DatasetName,Usage,Discription,Dataset source,Dataset download link
+﻿DatasetName,usage1,Usage2,Usage3,Discription,Dataset source,Dataset download link,
+Generic images and CIFAR subset,Image Processing,Image Classification,,"Generic images for image processing, the data folder contains images for 3 class image classification for classes - humans, dogs and horses",,,
+BHSig260,Siamese network - one-shot learning,signature verification,image classification,,,,https://www.dropbox.com/s/s59wvm0uxxx4oag/BHSig260.zip?dl=0
